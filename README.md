@@ -28,11 +28,15 @@ Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [RecordIt](http://recordit.co/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+I discovered very early on that small mistakes can hinder work very fast. I struggled for a few minutes trying to diagnose why components in my app were bunching up when I ran them on my device. In retrospect, I realize that it was not extremely important, and my time would have been better spent completing the main objectives of the app. Fortunately, I was able to debug the problem very quickly with the help of one of our TAs.
+
+I did, however, learn that if I find a solution to a problem then it is very important to figure out why that solution worked or why I used it. Earlier during the day, I chose to use my device to display my app because I was having trouble using the emulator. I figured this was a good solution because I would not have to deal with the emulator anymore. However, later I realized that I would have to redo that process again if I wanted to create a gif with the screen recording software on the Mac. My time may have been better spent setting it up correctly the first time.
 
 ## License
 
